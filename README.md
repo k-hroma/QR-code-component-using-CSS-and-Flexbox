@@ -18,8 +18,8 @@ QR code component | First solution using CSS and Flexbox
 
 ## Links
 
-- Solution URL: [https://github.com/k-hroma/k-hroma-QR-code-component-First-solution-using-CSS-and-Flexbox.git]
-- Live Site URL: [https://k-hroma.github.io/k-hroma-QR-code-component-First-solution-using-CSS-and-Flexbox/]
+- Solution URL: [https://github.com/k-hroma/QR-code-component-using-CSS-and-Flexbox.git]
+- Live Site URL: [https://k-hroma.github.io/QR-code-component-using-CSS-and-Flexbox/]
 
 ## Built with
 
